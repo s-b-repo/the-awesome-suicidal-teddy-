@@ -1,4 +1,4 @@
-# suicidal teddy tool list
+# Suicidal Teddy tool list
 
 # Reconnaissance & Advanced Scanners
 
