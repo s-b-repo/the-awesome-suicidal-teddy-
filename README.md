@@ -20,9 +20,10 @@
 * **Revil DNS** – [revil-dns](https://github.com/s-b-repo/revil-dns) – A Sliver C2 payload that uses DNS tunneling and obfuscation for communication (written in C).
 * **RansomCare** – [ransomcare](https://github.com/s-b-repo/ransomcare) – An open-source ransomware example for educational and testing purposes.
 * **Rust Slowloris** – [rust-slowloris](https://github.com/s-b-repo/rust-slowloris) – A reimplementation of the Slowloris low-bandwidth DoS attack in Rust.
-
+ 
 # Malware Analysis, Forensics & Reverse Engineering
 
+* **lolbas payload repository for pentesting** – [lolbas payload repository](https://github.com/s-b-repo/lolbas-malware-depo) explotation payloads for pentesting using lolbas methods.
 * **PS1ware** – [ps1ware](https://github.com/s-b-repo/ps1ware) – A library of PowerShell malware techniques and payloads (useful for malware development and analysis).
 * **Eternal Green** – [eternal-green](https://github.com/s-b-repo/eternal-green) – An example Windows shortcut (LNK) malware dropper, demonstrating techniques for stealth payload delivery.
 
