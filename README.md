@@ -66,3 +66,8 @@
 
 * **AutoRegexGen** – [autoregex-gen](https://github.com/s-b-repo/autoregex-gen) – A handy Python utility that automatically generates regular expression patterns from plain English descriptions.
 * **QEMU-KVM Auto Installer** – [qemu-kvm-auto-install.sh](https://github.com/s-b-repo/qemu-kvm-auto-install.sh) – Shell script to quickly set up a QEMU/KVM virtual machine environment, simplifying the creation of VMs for testing and labs.
+
+# Hosting & cloud
+* **cheap cloud providers** [list of cheap hosting 2025](https://github.com/s-b-repo/cheap-hosting-list-2025)
+
+
